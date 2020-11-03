@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About Webpack</title>
+  </head>
+  <body>
+    <h1 id="target"></h1>
+    <script src="vendors~about~contact~main.bundle.js"></script>
+    <script src="about.bundle.js"></script>
+  </body>
+</html>

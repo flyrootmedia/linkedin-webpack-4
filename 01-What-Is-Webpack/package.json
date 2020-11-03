@@ -1,0 +1,22 @@
+{
+  "name": "webpack-basic",
+  "version": "1.0.0",
+  "description": "Learning all about webpack 4",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js -w"
+  },
+  "keywords": [
+    "webpack",
+    "preprocessing"
+  ],
+  "author": "Erik Ralston",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
